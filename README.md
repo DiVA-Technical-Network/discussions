@@ -1,4 +1,4 @@
-# Diskussionsyta för CORA's-API
+# Diskussionsyta för CORAs API
 Detta repo fungerar som en gemensam plats för diskussioner kring CORA:s API på en mer generell nivå. Här kan du tex:
 * Diskutera API:ets funktioner och användning
 * Dela erfarenheter och lösningar på eventuella problem
