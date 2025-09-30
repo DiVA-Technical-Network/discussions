@@ -1,7 +1,7 @@
 # Diskussionsyta för CORA's-API
 Detta repo fungerar som en gemensam plats för diskussioner kring CORA:s API på en mer generell nivå. Här kan du tex:
 * Diskutera API:ets funktioner och användning
-* Dela erfarenheter och eventuella problem
+* Dela erfarenheter och lösningar på eventuella problem
 * Sprida kunskap med andra användare
 
 Observera att frågor eller diskussioner som rör specifika verktyg eller repos ska hanteras i respektive projekt.
